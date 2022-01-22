@@ -6,7 +6,7 @@ html {
 }
 
 .vid{
-    position: absolute;
+    position: relative;
     border-radius: 25px;
     left: 50%;
     transform: translate(-50%);
