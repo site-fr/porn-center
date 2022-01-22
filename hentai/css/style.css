@@ -5,6 +5,13 @@ html {
     margin: 0;
 }
 
+.vid{
+    position: absolute;
+    border-radius: 25px;
+    left: 50%;
+    transform: translate(-50%);
+}
+
 section {
   padding: 1em;
 }
