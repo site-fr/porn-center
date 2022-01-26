@@ -245,10 +245,8 @@ section {
 .legal {
   background-color: #202021;
   color: white;
-  cursor: pointer;
-  position: fixed;
-  left: 0;
-  bottom: 0;
+  cursor:all-scroll;
+  display: grid;
   width: 100%;
   text-align: center;
 }
